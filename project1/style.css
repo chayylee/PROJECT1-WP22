@@ -1,0 +1,41 @@
+.wrapper {
+  display: flex;
+}
+
+.wrapper > div {
+  flex: 1;
+}
+
+
+
+body {
+  background-color: #000000;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+h4 {
+  color: white;
+}
+
+p {
+  color: #770000;
+}
+
+a {
+  color: #770000;
+}
+
+li {
+  color: #990000;
+}
+
+div {
+  color: white;
+}
